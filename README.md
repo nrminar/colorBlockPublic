@@ -15,5 +15,6 @@ Add 4 buttons that read 'Red', 'Yellow', 'Green', and 'Blue'. When you click on 
 
 ![Here is an example of what your application should look like after night 2](http://i.imgur.com/ChOIEjW.png)
 
-## Hard Mode
-Make it so that when you click on one of the color blocks, it deletes that block, and then updates the color count.
+## Stretch Goals
+
+Make it so that when you click on one of the color blocks, it deletes that block, and then updates the color count. Create an input field that allows users to add multiple blocks at a time (e.g. 4 green blocks instead of just one).
