@@ -1,5 +1,5 @@
 # Color Blocks - Solo Challenge(s)
-Over the next two evenings, we will be building up an application that creates Color Blocks on the DOM based off of buttons that are loaded right away. Additionally, we are going to be tracking the number of Blocks in each color we create. When the user clicks on a color button, it will create a Color Block, then add to that colors count.
+We will be building up an application that creates Color Blocks on the DOM based off of buttons that are loaded right away. Additionally, we are going to be tracking the number of Blocks in each color we create. When the user clicks on a color button, it will create a Color Block, then add to that colors count.
 
 ## Part 1
 For the first part, we will be simply adding Color Blocks to the DOM using HTML & CSS. More specifically, create a Red, Yellow, Green, and Blue blocks when the application loads. They should be 100px in width, and 100px in height. They should have 10 px of space between each box.
