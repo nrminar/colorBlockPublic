@@ -1,0 +1,32 @@
+#redBox{
+    background-color: red;
+    padding: 10px;
+    height: 100px;
+    width: 100px;
+    display: inline-block;
+    margin: 5px;
+}
+#yelBox{
+    background-color: yellow;
+    padding: 10px;
+    height: 100px;
+    width: 100px;
+    display: inline-block;
+    margin: 5px;
+}
+#bluBox{
+    background-color: blue;
+    padding: 10px;
+    height: 100px;
+    width: 100px;
+    display: inline-block;
+    margin: 5px;
+}
+#greBox{
+    background-color: green;
+    padding: 10px;
+    height: 100px;
+    width: 100px;
+    display: inline-block;
+    margin: 5px;
+}
