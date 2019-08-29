@@ -130,9 +130,4 @@ function addGre(){
         console.log('added green');
     }
     $( '#multiBlock' ).val( '' );
-
-    gCountIn.empty();
-    gCountIn.append('Green Count:',greCount);
-    colorCon.append('<button id="greBox"  onclick="removeBlock(this)"></button>');
-    console.log('added green');
 }
